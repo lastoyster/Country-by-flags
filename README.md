@@ -1,4 +1,6 @@
-# flags_app
+#  flutter flags app
+A country search app which displays flags images with autocomplete feature. Used redux as a state management library and go router for routing and services.
+
 
 A new Flutter project.
 
@@ -14,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# flutter #dart #gorouter #api practice #redux
