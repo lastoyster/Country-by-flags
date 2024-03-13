@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442558957488",
+    "project_id": "flags-app-c9641",
+    "storage_bucket": "flags-app-c9641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442558957488:android:385b12d5fa3d859d073875",
+        "android_client_info": {
+          "package_name": "com.noval.flags_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9PZ3Cfi8HdJ_CofLAF3ADvFg3jf5vMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
